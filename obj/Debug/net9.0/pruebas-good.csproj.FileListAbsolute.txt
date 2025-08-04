@@ -1,0 +1,15 @@
+D:\SAC\Documentos\Nueva carpeta\pruebas-good\bin\Debug\net9.0\pruebas-good.exe
+D:\SAC\Documentos\Nueva carpeta\pruebas-good\bin\Debug\net9.0\pruebas-good.deps.json
+D:\SAC\Documentos\Nueva carpeta\pruebas-good\bin\Debug\net9.0\pruebas-good.runtimeconfig.json
+D:\SAC\Documentos\Nueva carpeta\pruebas-good\bin\Debug\net9.0\pruebas-good.dll
+D:\SAC\Documentos\Nueva carpeta\pruebas-good\bin\Debug\net9.0\pruebas-good.pdb
+D:\SAC\Documentos\Nueva carpeta\pruebas-good\obj\Debug\net9.0\pruebas-good.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAC\Documentos\Nueva carpeta\pruebas-good\obj\Debug\net9.0\pruebas-good.AssemblyInfoInputs.cache
+D:\SAC\Documentos\Nueva carpeta\pruebas-good\obj\Debug\net9.0\pruebas-good.AssemblyInfo.cs
+D:\SAC\Documentos\Nueva carpeta\pruebas-good\obj\Debug\net9.0\pruebas-good.csproj.CoreCompileInputs.cache
+D:\SAC\Documentos\Nueva carpeta\pruebas-good\obj\Debug\net9.0\pruebas-good.sourcelink.json
+D:\SAC\Documentos\Nueva carpeta\pruebas-good\obj\Debug\net9.0\pruebas-good.dll
+D:\SAC\Documentos\Nueva carpeta\pruebas-good\obj\Debug\net9.0\refint\pruebas-good.dll
+D:\SAC\Documentos\Nueva carpeta\pruebas-good\obj\Debug\net9.0\pruebas-good.pdb
+D:\SAC\Documentos\Nueva carpeta\pruebas-good\obj\Debug\net9.0\pruebas-good.genruntimeconfig.cache
+D:\SAC\Documentos\Nueva carpeta\pruebas-good\obj\Debug\net9.0\ref\pruebas-good.dll

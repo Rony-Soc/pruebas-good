@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "pruebas-good/1.0.0": {
+        "runtime": {
+          "pruebas-good.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pruebas-good/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
